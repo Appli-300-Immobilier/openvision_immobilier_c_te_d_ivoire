@@ -1,10 +1,10 @@
-# To-Do List for Openvision Immobilier C�te d�Ivoire Website
+# To-Do List for Openvision Immobilier Céte déIvoire Website
 
 ## Project Overview
-- **Company Name:** Openvision Immobilier C�te d�Ivoire
+- **Company Name:** Openvision Immobilier Céte déIvoire
 - **Directory:** openvision_immobilier_c_te_d_ivoire
 - **Address/Contact:** 
-  - Bouake, Air France , Bouak�, C�te d'Ivoire
+  - Bouake, Air France , Bouaké, Céte d'Ivoire
   - 
   - +225 0758781735
   - 
@@ -25,7 +25,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: openvision-immobilier-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Openvision Immobilier C�te d�Ivoire  - Meta description: ...
+  - Title: Openvision Immobilier Céte déIvoire  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -41,7 +41,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Openvision Immobilier C�te d�Ivoire".
+  - Replace the hero title with "Openvision Immobilier Céte déIvoire".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
